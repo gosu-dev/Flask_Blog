@@ -1,0 +1,5 @@
+1) rewrite forms displaying
+2) add forms error displaying
+3) Update Profile functions
+4) Set secrets as env vars
+5) Pagination
